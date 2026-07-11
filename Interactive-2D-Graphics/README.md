@@ -44,8 +44,6 @@ An interactive particle simulation featuring:
 
 ## Technologies Used
 
-## Technologies Used
-
 ### Language
 - Python
 
