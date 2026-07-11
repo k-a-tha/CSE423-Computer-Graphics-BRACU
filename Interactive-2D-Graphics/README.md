@@ -89,7 +89,6 @@ An interactive particle simulation featuring:
 #### Demo Video
 
 🎥 [Watch Demo](media/house_rainfall_demo.mp4)
-
 ---
 
 ### Amazing Box
