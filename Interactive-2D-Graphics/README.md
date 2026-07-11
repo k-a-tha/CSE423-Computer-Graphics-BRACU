@@ -66,13 +66,13 @@ An interactive particle simulation featuring:
 ### House in Rainfall
 
 - **Left / Right Arrow** – Change rain direction
-- **Up Arrow** – Switch to Day mode
-- **Down Arrow** – Switch to Night mode
+- **W key** – Switch to Day mode
+- **S key** – Switch to Night mode
 
 ### Amazing Box
 
-- **Left Mouse Button** – Create a new particle
-- **Right Mouse Button** – Toggle particle blinking
+- **Right Mouse Button** – Create a new particle
+- **Left Mouse Button** – Toggle particle blinking
 - **Spacebar** – Freeze / Resume the simulation
 - **Up / Down Arrow** – Increase / Decrease particle speed
 
