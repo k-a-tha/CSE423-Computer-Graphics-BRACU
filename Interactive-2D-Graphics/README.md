@@ -37,14 +37,17 @@ An interactive particle simulation featuring:
 
 ---
 
-## Screenshots
-
-## Screenshots
+## Demonstrations
 
 ### House in Rainfall
 
-![House in Rainfall](screenshots/house_rainfall.png)
+🎥 [Watch Demo](media/house_rainfall_demo.mp4)
 
+---
+
+### Amazing Box
+
+🎥 [Watch Demo](media/amazing_box_demo.mp4)
 ---
 
 ### Amazing Box
