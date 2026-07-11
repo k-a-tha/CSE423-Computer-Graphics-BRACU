@@ -48,8 +48,5 @@ An interactive particle simulation featuring:
 ### Amazing Box
 
 🎥 [Watch Demo](media/amazing_box_demo.mp4)
----
-
-### Amazing Box
 
 ![Amazing Box](screenshots/amazing_box.png)
