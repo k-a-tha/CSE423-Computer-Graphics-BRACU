@@ -138,7 +138,7 @@ def main():
     glutInitDisplayMode(GLUT_RGBA)
     glutInitWindowSize(W, H)
     glutInitWindowPosition(170, 170)
-    glutCreateWindow(b"Task 2")
+    glutCreateWindow(b"Amazing_Box")
 
     glutDisplayFunc(display)
     glutIdleFunc(animate)
