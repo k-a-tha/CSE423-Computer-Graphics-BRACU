@@ -135,7 +135,7 @@ def animate():
 
 def main():
     glutInit()
-    glutInitDisplayMode(GLUT_RGBA)
+    glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE)
     glutInitWindowSize(W, H)
     glutInitWindowPosition(170, 170)
     glutCreateWindow(b"Amazing_Box")
