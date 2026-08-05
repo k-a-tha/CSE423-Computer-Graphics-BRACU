@@ -217,7 +217,7 @@ def main():
     glutInitDisplayMode(GLUT_RGBA)
     glutInitWindowSize(W, H)
     glutInitWindowPosition(170, 170)
-    glutCreateWindow(b"Task 1")
+    glutCreateWindow(b"House_Rainfall")
     glutDisplayFunc(display)
     glutIdleFunc(animate)
     glutKeyboardFunc(keyboard_listener)
