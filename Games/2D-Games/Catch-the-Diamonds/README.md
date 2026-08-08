@@ -339,7 +339,7 @@ Catch-the-Diamonds/
 
 ### Algorithms
 - Midpoint Line Drawing Algorithm
-- Eight-Zone Line Drawing
+- Zone Finding Algorithm and Eight Way Symmetry
 - AABB (Axis-Aligned Bounding Box) Collision Detection
 
 ### Other Concepts
@@ -350,22 +350,22 @@ Catch-the-Diamonds/
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/k-a-tha/Computer-Graphics-OpenGL.git
-cd Computer-Graphics-OpenGL
+cd Computer-Graphics-OpenGL/Games/2D-Games/Catch-the-Diamonds
 ```
 
-## 2. Install Required Libraries
+### 2. Install Required Libraries
 
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate
 ```
 
-## 3. Run the Game
+### 3. Run the Game
 
 ```bash
 python "Catch_the_Diamonds.py"
