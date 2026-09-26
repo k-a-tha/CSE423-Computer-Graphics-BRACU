@@ -110,8 +110,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/k-a-tha/Computer-Graphics-OpenGL.git
-cd Computer-Graphics-OpenGL
+git clone https://github.com/k-a-tha/CSE423-Computer-Graphics-BRACU.git
+cd CSE423-Computer-Graphics-BRACU
 ```
 
 ### 2. Install the dependencies
@@ -149,7 +149,7 @@ Each project folder has its own README with the full controls, features and impl
 ## 📁 Repository Structure
 
 ```text
-Computer-Graphics-OpenGL/
+CSE423-Computer-Graphics-BRACU/
 ├── 01-interactive-2d-graphics/
 │   ├── house-in-rainfall/
 │   │   ├── house_rainfall.py
