@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-### ⭐ Featured Project
+### ✨ Featured Project
 
 <table>
   <tr>
@@ -141,7 +141,7 @@ python 02-catch-the-diamonds/catch_the_diamonds.py
 python 03-bullet-frenzy-3d/bullet_frenzy.py
 ```
 
-Each project folder has its own README with the full controls, features and implementation notes.
+Each project folder has its own README with the full controls and the assignment question file, features and implementation notes.
 
 ---
 
@@ -158,14 +158,17 @@ CSE423-Computer-Graphics-BRACU/
 │   │   ├── amazing_box.py
 │   │   ├── media/
 │   │   └── README.md
-│   └── README.md
+│   ├── LAB_01.png 
+|   └── README.md
 ├── 02-catch-the-diamonds/
 │   ├── catch_the_diamonds.py
 │   ├── media/
+|   ├── LAB_02.pdf
 │   └── README.md
 ├── 03-bullet-frenzy-3d/
 │   ├── bullet_frenzy.py
 │   ├── media/
+|   ├── LAB_03.py
 │   └── README.md
 ├── assets/
 │   ├── banner.svg
@@ -191,7 +194,7 @@ CSE423-Computer-Graphics-BRACU/
 
 **Ridita Katha** · [@k-a-tha](https://github.com/k-a-tha)
 
-Built as coursework for **CSE423: Computer Graphics**, Department of Computer Science and Engineering, **BRAC University**.
+Built as for coursework for **CSE423: Computer Graphics**, Department of Computer Science and Engineering, **BRAC University**.
 
 ## 📄 License
 
