@@ -1,0 +1,5 @@
+# Core graphics library (all projects)
+PyOpenGL>=3.1.6
+
+# Optional: faster PyOpenGL (safe to remove if it fails to install)
+PyOpenGL-accelerate>=3.1.6
