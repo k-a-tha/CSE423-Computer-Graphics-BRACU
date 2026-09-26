@@ -168,7 +168,7 @@ CSE423-Computer-Graphics-BRACU/
 ├── 03-bullet-frenzy-3d/
 │   ├── bullet_frenzy.py
 │   ├── media/
-|   ├── LAB_03.py
+|   ├── LAB_03.pdf
 │   └── README.md
 ├── assets/
 │   ├── banner.svg
