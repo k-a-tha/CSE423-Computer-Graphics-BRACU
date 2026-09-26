@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  A collection of interactive graphics programs and games built from scratch with <b>Python</b>, <b>PyOpenGL</b> and <b>GLUT</b>,
+  A collection of interactive graphics animations and games built from scratch with <b>Python</b>, <b>PyOpenGL</b> and <b>GLUT</b>,
   progressing from pixel-level 2D rendering to real-time 3D worlds.<br>
-  Developed for <b>CSE423: Computer Graphics</b> at <b>BRAC University</b>.
 </p>
 
 <p align="center">
